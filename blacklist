@@ -1,7 +1,8 @@
 ! name: Block Poe Fandom
 ! description: Deletes pathofexile.fandom.com from Brave Search
 ! public: true
-! author: AgusC
+! author: AC
 ! avatar: #ff4444
 
 $discard,site=pathofexile.fandom.com
+#discard,site=pathofexile.gamepedia.com
