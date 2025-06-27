@@ -1,9 +1,10 @@
-! name: Site Ignore
-! description: Ignores sites for Brave search
+! name: POE Wiki Cleanup
+! description: Bloquea la wiki de Fandom y prioriza poewiki.net
 ! public: true
 ! author: Agus
+! avatar: #e05d44
 
 $discard
-$downrank,pathofexile.fandom.com
+$downrank,site=pathofexile.fandom.com
 
-$boost=1,site=poewiki.net
+$boost=3,site=poewiki.net
