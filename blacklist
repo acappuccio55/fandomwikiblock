@@ -1,0 +1,7 @@
+! name: Bloquear POE Fandom
+! description: Elimina resultados de pathofexile.fandom.com en Brave Search
+! public: true
+! author: Agus
+! avatar: #ff4444
+
+$discard,site=pathofexile.fandom.com
