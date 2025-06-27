@@ -1,0 +1,9 @@
+! name: Site Ignore
+! description: Ignores sites for Brave search
+! public: true
+! author: Agus
+
+$discard
+$downrank,pathofexile.fandom.com
+
+$boost=1,site=poewiki.net
