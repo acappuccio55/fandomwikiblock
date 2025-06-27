@@ -1,0 +1,8 @@
+{
+  "title": "Poe Fandom Wiki Block",
+  "description": "Hides pathofexile.fandom.com from Brave Search",
+  "include": [],
+  "exclude": [
+    "pathofexile.fandom.com"
+  ]
+}
