@@ -1,10 +1,7 @@
-! name: POE Wiki Cleanup
-! description: Bloquea la wiki de Fandom y prioriza poewiki.net
+! name: Bloquear POE Fandom
+! description: Elimina resultados de pathofexile.fandom.com en Brave Search
 ! public: true
 ! author: Agus
-! avatar: #e05d44
+! avatar: #ff4444
 
-$discard
-$downrank,site=pathofexile.fandom.com
-
-$boost=3,site=poewiki.net
+$discard,site=pathofexile.fandom.com
