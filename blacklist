@@ -5,4 +5,4 @@
 ! avatar: #ff4444
 
 $discard,site=pathofexile.fandom.com
-#discard,site=pathofexile.gamepedia.com
+$discard,site=pathofexile.gamepedia.com
